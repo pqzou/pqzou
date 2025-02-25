@@ -9,3 +9,6 @@
 </a><br>
 ·业余无线电呼号<span style="color: #92c4f7;">BH2XHN</span><br>
 ··爱会赢赛道急救人员 持有AHA CPR&AED 中国红十字救护员<br>
+·我的博客<a href="https://pqzou.github.io/" target="_blank">
+    <span style="color: #00ff00;">点这里哦</span>
+</a>
