@@ -1,12 +1,9 @@
-你好啊，这里是Josiah（Pqzou）！<br>
+🛠 Unity & VR Developer | VRC Training Maps  
+🚑 Volunteer First Responder  
+🎓 Nursing Student
 
-关于Josiah<br>
-·一名来自辽宁大连的护理学生<br>
-·Steam好友代码:<a href="https://steamcommunity.com/profiles/76561199215632460/" target="_blank">
-    <span style="color: #92c4f7;">1255366732</span>
-</a><br>
-·业余无线电呼号<span style="color: #92c4f7;">BH2XHN</span><br>
-··爱会赢赛道急救人员 持有AHA CPR&AED 中国红十字救护员<br>
-·我的博客<a href="blog.pqzou.xyz:1145" target="_blank">
-    <span style="color: #00ff00;">点这里哦</span>
-</a>
+Building interactive VR training simulations for emergency response.  
+Focus on prehospital care, field coordination, and scenario-based learning.  
+
+📡 Radio Operator (Class B) | BH2XHN  
+🧠 ICS100/200 | AHA CPR & AED
