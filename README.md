@@ -1,8 +1,7 @@
-你好啊，这里是Josiah Smith（Pqzou）！<br>
+你好啊，这里是Josiah（Pqzou）！<br>
 
-关于Josiah Smith<br>
-·一名来自辽宁大连的初中生<br>
-·热衷于急救 应急救援的一个初中生<br>
+关于Josiah<br>
+·一名来自辽宁大连的护理学生<br>
 ·Steam好友代码:<a href="https://steamcommunity.com/profiles/76561199215632460/" target="_blank">
     <span style="color: #92c4f7;">1255366732</span>
 </a><br>
